@@ -1,0 +1,52 @@
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\GirisProgrami.frmGiriş.resources
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.FrmYonetici.resources
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe.config
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.frmPersonel.resources
+C:\Users\Yusuf\source\repos\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Yardım.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\GirisProgrami.frmGiriş.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.frmPersonel.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.FrmYonetici.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Yardım.resources
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\GirisProgrami.frmGiriş.resources
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.frmPersonel.resources
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.FrmYonetici.resources
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Yardım.resources
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe.config
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\bin\Debug\LokantaOtomasyonu.pdb
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\GirisProgrami.frmGiriş.resources
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.frmPersonel.resources
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.FrmYonetici.resources
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.Yardım.resources
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.exe
+C:\Users\Yusuf\Desktop\proğramlama final ödevi\16008119057YusufBalık\LokantaOtomasyonu\LokantaOtomasyonu\obj\Debug\LokantaOtomasyonu.pdb
